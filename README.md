@@ -27,6 +27,20 @@ The adapter is the main code responsible for RecyclerView. It holds all the impo
 
 **onAttachedToRecyclerView:-** It attaches the adapter to the RecyclerView.
 
+<h3> Types of Adapter </h3>
+**BaseAdapter** – BaseAdapter is the parent adapter for the rest of the Adapters.
+
+**CursorAdapter** – This adapter makes it easy and more controlled to access the binding of data values.
+
+**ArrayAdapter** – ArrayAdapter presents the items in a single list backed by an array.
+
+**Custom ArrayAdapter** – It displays the custom list of an Array.
+
+**SimpleAdapter** – SimpleAdapter is an easy adapter to map static data to the views through the XML file.
+
+**Custom SimpleAdapter** – It displays a customized list and enables us to access the child data of the list or grid view.
+![Screenshot (90)](https://user-images.githubusercontent.com/71092350/113615771-ea38e480-9671-11eb-8b3a-a07b04b80552.png)
+
 <h2> Custom Chrome Tabs </h2>
 Custom Tabs is a browser feature, introduced by Chrome, that is now supported by most major browsers on Android. It give apps more control over their web experience, and make transitions between native and web content more seamless without having to resort to a WebView.
 
