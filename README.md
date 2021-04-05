@@ -2,6 +2,7 @@
 
 <h2> Recycler View </h2>
 
+![Screenshot (88)](https://user-images.githubusercontent.com/71092350/113614744-8104a180-9670-11eb-83dd-65a47bfae458.png)
 
 
 
